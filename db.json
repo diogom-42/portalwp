@@ -1,46 +1,16 @@
 {
    "idAtividade":125369,
    "idTipoAtividade":1,
-   "tipoAtividade":"Programação",
-   "codigoEventoSesc":"2838",
-   "titulo":"02062021_testes_gsd",
    "tituloSesc":"02062021_TESTES_GSD",
-   "complemento":null,
-   "texto":" ",
-   "descricao":null,
    "codigoStatus":"RA",
    "nomeStatus":"Rascunho",
    "sessoes":[
       {
          "idSessao":188268,
          "idAtividade":125369,
-         "qtdeIngressosRede":30,
          "qtdeIngressosWeb":27,
          "codigoStatusEvento":"2",
          "dscStatusEvento":"esgotado",
-         "dataInicialSessaoFmt":"2021-06-11T15:00",
-         "dataFinalSessaoFmt":"2021-06-11T00:00",
-         "dataInicialVendaOnlineFmt":"2021-05-31T12:00",
-         "dataFinalVendaOnlineFmt":"2021-06-11T13:00",
-         "dataInicialVendaRedeFmt":"2021-06-02T17:30",
-         "dataFinalVendaRedeFmt":"2021-06-11T16:00",
-         "ingressoOnlineDisponivel":true,
-         "segunda":0,
-         "terça":0,
-         "quarta":0,
-         "quinta":0,
-         "sexta":1,
-         "sabado":0,
-         "domingo":0,
-         "unidade":{
-            "id":25,
-            "codigoSesc":"68",
-            "nome":"Belenzinho",
-            "endereco":"Rua Padre Adelino, 1.000 | Belenzinho | SAO PAULO  | SP | Cep: 03303-000",
-            "lat":"-23.54390771969912",
-            "lng":"-46.58390879678052",
-            "feriadoMensagem":null
-         }
       }
    ]
 }
